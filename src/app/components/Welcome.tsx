@@ -6,7 +6,7 @@ export default function Welcome(props: WelcomeProps): ReactElement {
   return (
     <>
       <div className="name"></div>
-      <div className="welcomText"></div>
+      <div className="welcomeText"></div>
     </>
   );
 }
